@@ -12,3 +12,15 @@ body {
     width: 600px;
     border-radius: 15px;
 }
+
+a, a:hover {
+    font-size: 30px;
+}
+
+a {
+    color: #1209bb80;
+}
+
+a:hover {
+    color: #ffffff;
+}
