@@ -32,3 +32,8 @@ a:hover {
     padding-top: 30px;
     padding-bottom: 50px;
 }
+
+ul, ol, p{
+    font-size: 20px;
+}
+
