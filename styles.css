@@ -53,3 +53,8 @@ p.homepage, p.homepage:hover {
 p.homepage:hover {
     color: white;
 }
+
+h1, h2, h3 {
+    color: white;
+  text-shadow: 2px 2px 4px #000000;
+}
