@@ -37,3 +37,11 @@ ul, ol, p{
     font-size: 20px;
 }
 
+ul li:hover , ol li:hover , p:hover {
+    color: white;
+}
+
+ul {
+    list-style-type: circle;
+}
+
